@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Loza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\obj\\",
+      "projectPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\Loza\\.nuget\\packages\\",
+      "outputPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Loza\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
