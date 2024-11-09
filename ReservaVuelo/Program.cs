@@ -2,15 +2,16 @@
 
 namespace ReservaVuelo{
     class Program{
+        
         public static void Main(){
             //Pasajeros p = new Pasajeros();
             int opcion;
             do{
                 Console.WriteLine("+++ RESERVA DE VUELO +++");
-                System.Console.WriteLine("-------------------------");
+                Console.WriteLine("-------------------------");
                 Console.WriteLine("Elegir una de las opciones: \n    [1] Reservar Asiento \n    [2] Cancelar Reserva \n    [3] Mostrar Estado de un Avión"
                 +" \n    [4] Ver Lista de Pasajeros \n    [5] SALIR");
-                System.Console.Write("QUE OPCION VA ELEGIR?   ");
+                Console.Write("QUE OPCION VA ELEGIR?   ");
                 opcion = int.Parse(Console.ReadLine());
                 switch (opcion){
                     case 1:
