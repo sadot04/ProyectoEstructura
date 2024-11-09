@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj": {
+    "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj",
         "projectName": "ReservaVuelo",
-        "projectPath": "D:\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj",
-        "packagesPath": "C:\\Users\\sadot\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoEstructura\\ReservaVuelo\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\ReservaVuelo\\ReservaVuelo.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\ReservaVuelo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sadot\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

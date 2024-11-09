@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sadot\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\__EstDD\\C#\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\__EstDD\\C#\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\sadot\\.nuget\\packages\\",
-      "outputPath": "D:\\__EstDD\\C#\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\phpClases\\ProyectoEstructura\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sadot\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
