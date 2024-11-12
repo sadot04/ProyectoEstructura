@@ -21,7 +21,8 @@ public class Pasajero{
     public int Nro_asiento { get => nro_asiento; set => nro_asiento = value; }
 
 
-    public Pasajero(){
+    public Pasajero(string nombre)
+    {
         nombre = Nombre;
         apellido = Apellido;
         ci = Ci;

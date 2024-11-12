@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-3\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-3\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Loza\\.nuget\\packages\\",
-      "outputPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-2\\Biblioteca\\obj\\",
+      "outputPath": "D:\\Catolica\\SEMESTRE 2-2024\\ESTRUCTURA DE DATOS\\ReservaDeVuelo\\ProyectoEstructura-3\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Loza\\AppData\\Roaming\\NuGet\\NuGet.Config"
