@@ -7,32 +7,6 @@ public class Funciones
     private List<Asiento[]> aviones = new List<Asiento[]>();
     private LinkedList<Pasajero> listaCircularPasajeros = new LinkedList<Pasajero>(); 
     private Queue<Pasajero> listaEspera = new Queue<Pasajero>();
-
-    public void ConfigurarAviones()
-    {
-        Console.WriteLine("Configurando aviones...");
-
-        
-        aviones.Add(new Asiento[20]);
-        aviones.Add(new Asiento[25]);
-        aviones.Add(new Asiento[15]); 
-
-       
-        foreach (var avion in aviones)
-        {
-            for (int i = 0; i < avion.Length; i++)
-            {
-                avion[i] = new Asiento();
-            }
-        }
-
-        Console.WriteLine("Aviones configurados:");
-        for (int i = 0; i < aviones.Count; i++)
-        {
-            Console.WriteLine($"Avión {i + 1} con {aviones[i].Length} asientos.");
-        }
-    }
-
    
     public void ReservarAsiento(string nombre, int numeroAvion)
     {
@@ -115,38 +89,5 @@ public class Funciones
             Console.WriteLine($"Pasajero {nombre} no encontrado.");
         }
     }
-
-    public void MostrarEstadoAvion(int numeroAvion)
-    {
-        if (numeroAvion < 1 || numeroAvion > aviones.Count)
-        {
-            Console.WriteLine("Número de avión no válido.");
-            return;
-        }
-
-        Asiento[] avion = aviones[numeroAvion - 1];
-        Console.WriteLine($"Estado del avión {numeroAvion}:");
-        for (int i = 0; i < avion.Length; i++)
-        {
-            Console.Write($"[{i + 1}:{avion[i].Estado}] ");
-            if ((i + 1) % 10 == 0) Console.WriteLine();
-        }
-        Console.WriteLine();
-    }
-
-
-    public void MostrarListaPasajeros()
-    {
-        if (listaCircularPasajeros.Count == 0)
-        {
-            Console.WriteLine("No hay pasajeros.");
-            return;
-        }
-
-        foreach (var pasajero in listaCircularPasajeros)
-        {
-            Console.Write($"{pasajero.Nombre} -> ");
-        }
-        Console.WriteLine("(circular)");
-    }
+   
 }

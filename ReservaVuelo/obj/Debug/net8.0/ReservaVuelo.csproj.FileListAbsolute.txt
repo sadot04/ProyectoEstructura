@@ -28,3 +28,18 @@ C:\Users\DELL\Desktop\phpClases\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0
 C:\Users\DELL\Desktop\phpClases\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.pdb
 C:\Users\DELL\Desktop\phpClases\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.genruntimeconfig.cache
 C:\Users\DELL\Desktop\phpClases\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ref\ReservaVuelo.dll
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.exe
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.deps.json
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.runtimeconfig.json
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.dll
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.pdb
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.AssemblyInfoInputs.cache
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.AssemblyInfo.cs
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.csproj.CoreCompileInputs.cache
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.sourcelink.json
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.dll
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\refint\ReservaVuelo.dll
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.pdb
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.genruntimeconfig.cache
+D:\Catolica\SEMESTRE 2-2024\ESTRUCTURA DE DATOS\ReservaDeVuelo\ProyectoEstructura-3\ReservaVuelo\obj\Debug\net8.0\ref\ReservaVuelo.dll
